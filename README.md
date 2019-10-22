@@ -1,3 +1,5 @@
+Note from David Merrick: I forked this into our org so we'd have control over the source. Otherwise, invoking the action in the main repo could compromise our code if a malicious actor got control of it.
+
 # Branch Cleanup Action
 
 [![Travis CI](https://img.shields.io/travis/jessfraz/branch-cleanup-action.svg?style=for-the-badge)](https://travis-ci.org/jessfraz/branch-cleanup-action)
